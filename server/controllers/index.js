@@ -131,7 +131,7 @@ const getName = async (req, res) => {
 }
 
 
-
+//
 // Function to create a new cat in the database
 const setName = async (req, res) => {
   /* If we look at views/page2.handlebars, the form has inputs for a firstname, lastname
